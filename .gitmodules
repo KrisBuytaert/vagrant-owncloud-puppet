@@ -1,0 +1,3 @@
+[submodule "modules/owncloud"]
+	path = modules/owncloud
+	url = git@github.com:KrisBuytaert/puppet-owncloud.git
